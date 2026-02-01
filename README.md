@@ -35,15 +35,15 @@ Using a mix of **Artificial Neural Networks (MLP)** and ensemble methods like **
 ## Ethical Considerations
 We addressed the risk of **algorithmic bias**. In employment models, we prioritized **Recall** over Precision for the "Unemployed" class to ensure that vulnerable students are not overlooked by support programs.
 
-## Tech Stack
+## Technical Stack
 * **Language:** Python
 * **Libraries:** Pandas, NumPy, Scikit-Learn, XGBoost, Matplotlib, Seaborn, TensorFlow/Keras.
 
 ## Repository Structure
 
-* `data/`: Documentation regarding the INEI and Kaggle dataset schemas.
-* `notebooks/`: Contains the end-to-end data science pipeline (Cleaning, EDA, and Modeling).
-* `reports/`: Includes the final technical paper `final_report_graduate_employability_peru.pdf` and visual assets.
+* **`/data`**: Documentation regarding the INEI and Kaggle dataset schemas.
+* **`/notebooks`**: Contains the end-to-end data science pipeline (Cleaning, EDA, and Modeling).
+* **`/report`**: Includes the final technical paper `final_report_graduate_employability_peru.pdf`.
 
 ## Authors
 * Roberto Chavez
